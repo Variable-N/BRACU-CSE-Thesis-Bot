@@ -1,0 +1,7 @@
+vector_database1
+vector_database2
+vector_database3
+test.ipynb
+thesis.zip
+pre-requisite.csv
+config.json
